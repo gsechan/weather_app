@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="title_locations">Location</string>
+    <string name="title_weather">Weather</string>
+    <string name="today_weather">Today\'s weather</string>
+    <string name="future_temp">%1$d F/%2$d F</string>
+</resources>
